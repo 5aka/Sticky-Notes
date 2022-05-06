@@ -1,0 +1,20 @@
+#frame_buttom{
+    background-color: rgb(105, 105, 105);
+}
+QTextBrowser{
+border:none;
+font: 14pt "MingLiU-ExtB";
+background-color: rgb(105, 105, 105);
+}
+#frame_title{
+    background-color: rgb(73, 71, 69);
+}
+#frame{
+    border: none;
+}
+QPushButton{
+border:none;
+}
+QPushButton:hover, QPushButton:checked{
+background: rgb(116, 116, 116);
+}
